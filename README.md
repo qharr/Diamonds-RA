@@ -1,3 +1,2 @@
 # Diamonds-Regression-Analysis
-## Adding project .html file here by end of day
-## Check back here tomorrow!
+Redirect to [qharr.github.io/Diamonds-RA](https://qharr.github.io/Diamonds-RA/)
